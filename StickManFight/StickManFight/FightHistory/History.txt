@@ -1,0 +1,8 @@
+Bob has died, and the Winner is Hans from Germany
+Fighter1 has died, and the Winner is Fighter2 from Nowhere
+Fighter2 has died, and the Winner is Fighter1 from Nowhere
+Fighter2 has died, and the Winner is Fighter1 from Nowhere
+Unknown Fighter has died, and the Winner is Unknown Fighter from Nowhere
+Fighter2 has died, and the Winner is Fighter1 from Nowhere
+Fighter1 has died, and the Winner is Fighter2 from Nowhere
+Unknown Fighter has died, and the Winner is Unknown Fighter from Nowhere

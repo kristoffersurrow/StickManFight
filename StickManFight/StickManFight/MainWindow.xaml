@@ -1,0 +1,13 @@
+﻿<Window x:Class="StickManFight.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StickManFight"
+        mc:Ignorable="d"
+        Title="StickManFight" Height="350" Width="525" Background="WhiteSmoke" ResizeMode="NoResize"
+        Icon="./Resources/Icon.png">
+    <StackPanel>
+    <Frame NavigationUIVisibility="Hidden" Name="MainFrame" Source="{Binding}"/>
+    </StackPanel>
+</Window>
